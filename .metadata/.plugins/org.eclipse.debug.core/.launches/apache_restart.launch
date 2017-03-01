@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="net.sourceforge.phpeclipse.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="net.sourceforge.phpeclipse.externaltools.ATTR_LOCATION" value="c:\xampp\apache\bin\apache.exe"/>
+<booleanAttribute key="net.sourceforge.phpeclipse.externaltools.ATTR_RUN_IN_BACKGROUND" value="true"/>
+<stringAttribute key="net.sourceforge.phpeclipse.externaltools.ATTR_TOOL_ARGUMENTS" value="-k restart"/>
+</launchConfiguration>
